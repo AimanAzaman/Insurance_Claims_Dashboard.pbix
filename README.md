@@ -84,9 +84,10 @@ The claim-to-premium ratio is used as a comparative indicator in this project to
 insurance-claims-dashboard-powerbi/
 │
 ├── Insurance Claims Dashboard.pbix
-
-<img width="1153" height="662" alt="image" src="https://github.com/user-attachments/assets/684becef-41d3-4fd4-9ce8-848f02728cf3" />
-
-
 ├── Insurance Claim Dashboard Picture.png
 └── README.md
+
+## Author
+
+Muhammad Aiman bin Azaman
+Actuarial Science Student | Insurance Data Analytics
