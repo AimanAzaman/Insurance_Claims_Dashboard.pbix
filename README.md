@@ -87,7 +87,7 @@ insurance-claims-dashboard-powerbi/
 ├── Insurance Claim Dashboard Picture.png
 └── README.md
 
-## Author
 
-Muhammad Aiman bin Azaman
+
+
 Actuarial Science Student | Insurance Data Analytics
