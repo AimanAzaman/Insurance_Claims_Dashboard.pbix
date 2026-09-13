@@ -1,71 +1,47 @@
-# Insurance Claims Dashboard | Power BI
+# Insurance Claims Dashboard — Power BI
+
+An interactive insurance claims dashboard built using **Microsoft Power BI** to analyze claim costs, product risk, regional patterns, and claim trends over time.
 
 ## Project Overview
 
-An interactive insurance claims dashboard developed using Microsoft Power BI and DAX to analyze claim costs, product-level risk, regional patterns, and claim trends over time.
+This project presents an interactive dashboard designed to provide a clear overview of insurance claims performance.
 
-The project uses a synthetic insurance dataset and demonstrates how data can be transformed into interactive business insights for insurance decision-making.
+The dashboard analyzes:
 
-## Dataset
+- Total number of policies
+- Total number of claims
+- Total claim costs
+- Claim-to-premium ratio
+- Claim costs by insurance product
+- Claim costs by region
+- Claim cost trends over time
+- Product-level risk performance
+- Interactive filtering by policy type
 
-The dataset contains four related tables:
-
-| Table | Records |
-|---|---:|
-| Customers | 500 |
-| Policies | 800 |
-| Claims | 320 |
-| Payments | 1,000 |
-
-## Tools & Technologies
-
-- Microsoft Power BI
-- DAX
-- Google BigQuery
-- SQL
-- Data Modelling
-- Data Visualization
-
-## Dashboard
+## Dashboard Preview
 
 ![Insurance Claims Dashboard](Insurance%20Claim%20Dashboard%20Picture.png)
 
-## Key Metrics
-
-- **Total Policies:** 800
-- **Total Claims:** 320
-- **Total Claim Cost:** RM1.88M
-- **Overall Claim-to-Premium Ratio:** 95.08%
-
 ## Key Insights
 
-### Product Risk
+Based on the dashboard:
 
-- **Motor** has the highest total claim cost at approximately **RM0.86M**.
+- **Motor** has the highest total claim cost among the insurance products.
+- **North** has the highest total claim cost by region.
 - **Travel** has the highest claim-to-premium ratio at **427.84%**.
 - **Health** has the lowest claim-to-premium ratio at **41.98%**.
+- The overall claim-to-premium ratio is **95.08%**.
+- The dashboard contains **800 policies** and **320 claims**.
 
-### Regional Analysis
+> **Note:** The dataset used in this project is synthetic and was created for portfolio and analytical demonstration purposes. The claim-to-premium ratio is used as an analytical indicator and should not be interpreted as a formal actuarial loss ratio.
 
-- **North** has the highest total claim cost at approximately **RM0.53M**.
-- **East** follows closely at approximately **RM0.52M**.
-- **West** and **South** have lower total claim costs compared with North and East.
+## Tools & Technologies
 
-## Dashboard Features
-
-- KPI cards for key insurance metrics
-- Claim cost by insurance product
-- Claim cost by region
-- Claim cost trend over time
-- Product risk summary
-- Interactive policy-type slicer
-- Conditional formatting for claim-to-premium ratios
-
-## Insurance Analysis
-
-The dashboard provides a high-level view of claim performance across insurance products and regions.
-
-The claim-to-premium ratio is used as a comparative indicator in this project to highlight products where approved claim costs are high relative to premium. Since this is a synthetic portfolio and does not calculate earned premium or actuarial incurred claims, the ratio should not be interpreted as a formal actuarial loss ratio.
+- **Microsoft Power BI**
+- **DAX**
+- **Data Modelling**
+- **Data Visualization**
+- **Interactive Dashboard Design**
 
 ## Skills Demonstrated
 
@@ -86,9 +62,3 @@ insurance-claims-dashboard-powerbi/
 ├── Insurance Claims Dashboard.pbix
 ├── Insurance Claim Dashboard Picture.png
 └── README.md
-Author
-
-Muhammad Aiman bin Azaman
-
-Actuarial Science Student
-Focus: Insurance Data Analytics
