@@ -56,9 +56,17 @@ Based on the dashboard:
 
 ## Project Structure
 
-```text
+~~~text
 insurance-claims-dashboard-powerbi/
 │
 ├── Insurance Claims Dashboard.pbix
 ├── Insurance Claim Dashboard Picture.png
 └── README.md
+~~~
+
+## Author
+
+**Muhammad Aiman bin Azaman**
+
+Actuarial Science Student  
+Focus: Insurance Data Analytics
